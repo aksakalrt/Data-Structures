@@ -29,6 +29,10 @@ Liste Kontrolleri:
 
 30.07.2018
 
-# Stack İşlemlerini Yapmamızı Sağlayan Metotlar Stack.java Dosyası İçerisinde Yer Almaktadır.
+# Stack(Yığın) İşlemlerini Yapmamızı Sağlayan Metotlar Stack.java Dosyası İçerisinde Yer Almaktadır.
 
 push, pop, top, size, isEmpty metotları eklenmiştir.
+
+# Queue(Kuyruk) İşlemlerini Yapmamızı Sağlayan Metotlar Queue.java Dosyası İçerisinde Yer Almaktadır.
+
+enqueue, dequeue, front, size, isEmpty metotları eklenmiştir.
