@@ -26,6 +26,9 @@ Liste Kontrolleri:
   -Liste Boyutu
   -Liste Dolu mu Boş mu?
   
+
+30.07.2018
+
 # Stack İşlemlerini Yapmamızı Sağlayan Metotlar Stack.java Dosyası İçerisinde Yer Almaktadır.
 
 push, pop, top, size, isEmpty metotları eklenmiştir.
