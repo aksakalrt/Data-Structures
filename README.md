@@ -1,4 +1,4 @@
-# Data-Structures-Linked-List-Java-Methods
+# Data-Structures
 29.07.2018
 
 Bağlı Liste İşlemlerini Yapmamızı Sağlayan Metotlar List.java Dosyası İçerisinde Yer Almaktadır.
