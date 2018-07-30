@@ -1,7 +1,7 @@
 # Data-Structures
 29.07.2018
 
-Bağlı Liste İşlemlerini Yapmamızı Sağlayan Metotlar List.java Dosyası İçerisinde Yer Almaktadır.
+# Bağlı Liste İşlemlerini Yapmamızı Sağlayan Metotlar List.java Dosyası İçerisinde Yer Almaktadır.
 
 Listeye Eleman Ekleme:
   -Başa
@@ -26,3 +26,6 @@ Liste Kontrolleri:
   -Liste Boyutu
   -Liste Dolu mu Boş mu?
   
+# Stack İşlemlerini Yapmamızı Sağlayan Metotlar Stack.java Dosyası İçerisinde Yer Almaktadır.
+
+push, pop, top, size, isEmpty metotları eklenmiştir.
